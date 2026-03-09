@@ -83,8 +83,4 @@ plt.legend(['Regression Line','Data points'])
 plt.grid()
 plt.show()
 ~~~
-
-# Result
-<img width="742" height="607" alt="m3" src="https://github.com/user-attachments/assets/eb8476ef-7e2d-4bff-9d6c-583466bfdb4b" />
-
-# Output 
+# Output corelation and regreesion for data analysis of object from feeder using probability distribution are calculated.
