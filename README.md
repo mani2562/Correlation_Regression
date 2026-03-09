@@ -84,5 +84,7 @@ plt.grid()
 plt.show()
 ~~~
 # Output 
+<img width="742" height="607" alt="m3" src="https://github.com/user-attachments/assets/c0c1109e-758e-4103-b1dd-057146083cef" />
 
-corelation and regreesion for data analysis of object from feeder using probability distribution are calculated.
+# result 
+The corelation and regreesion for data analysis of object from feeder using probability distribution are calculated.
